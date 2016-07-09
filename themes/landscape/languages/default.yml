@@ -1,19 +1,11 @@
-categories: Categories
-search: Search
-tags: Tags
-tagcloud: Tag Cloud
-tweets: Tweets
-prev: Prev
-next: Next
-comment: Comments
-archive_a: Archives
-archive_b: "Archives: %s"
-page: Page %d
-recent_posts: Recent Posts
-newer: Newer
-older: Older
-share: Share
+prev: Předchozí
+next: Další
+comment: Komentáře
+share: Sdílet
 powered_by: Powered by
 rss_feed: RSS Feed
-category: Category
-tag: Tag
+no_title: (bez titulku)
+recent_posts: Česky třeba?
+newer: Novější
+older: Starší
+Articles: Články

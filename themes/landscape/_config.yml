@@ -1,34 +1,9 @@
-# Header
-menu:
-  Home: /
-  Archives: /archives
-rss: /atom.xml
-
 # Content
 excerpt_link: Read More
-fancybox: true
-
-# Sidebar
-sidebar: right
-widgets:
-- category
-- tag
-- tagcloud
-- archive
-- recent_posts
-
-# display widgets at the bottom of index pages (pagination == 2)
-index_widgets:
-# - category
-# - tagcloud
-# - archive
-
-# widget behavior
-archive_type: 'monthly'
-show_count: false
+rss: /atom.xml
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-50813002-1
 favicon: /favicon.png
 twitter:
 google_plus:

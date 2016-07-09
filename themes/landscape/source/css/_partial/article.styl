@@ -1,16 +1,22 @@
 .article
-  margin: block-margin 0
-
-.article-inner
   @extend $block
+  margin-bottom block-margin
   overflow: hidden
 
+#header
+.article-type-index
+  margin-bottom: block-margin
+
 .article-meta
+  padding-top: article-padding
+  padding-left: article-padding
   clearfix()
 
 .article-date
   @extend $block-caption
   float: left
+  &:hover
+    text-decoration: underline;
 
 .article-category
   float: left
@@ -21,7 +27,7 @@
   &:before
     content: "\2022"
 
-.article-category-link
+.category-header
   @extend $block-caption
   margin: 0 12px 1em
 
@@ -53,13 +59,12 @@
     margin: line-height-title 0
   a
     color: color-link
-    text-decoration: none
     &:hover
-      text-decoration: underline
+      color: color-link-hover
   ul, ol, dl
     margin-top: line-height
     margin-bottom: line-height
-  img, video
+  img, video, .twitter-tweet
     max-width: 100%
     height: auto
     display: block
