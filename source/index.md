@@ -8,7 +8,9 @@ layout: index
 
 [LinkedIn](http://cz.linkedin.com/in/pavelvanecek)
 
-[Email](mailto:email@pavelvanecek.cz)
+[email@pavelvanecek.cz](mailto:email@pavelvanecek.cz)
+
+[(+420) 721 812 922](tel:+420721812922)
 
 ---
 
